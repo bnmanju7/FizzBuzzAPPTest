@@ -1,0 +1,14 @@
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\bin\Debug\net8.0\FizzBuzz.Services.exe
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\bin\Debug\net8.0\FizzBuzz.Services.deps.json
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\bin\Debug\net8.0\FizzBuzz.Services.runtimeconfig.json
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\bin\Debug\net8.0\FizzBuzz.Services.dll
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\bin\Debug\net8.0\FizzBuzz.Services.pdb
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.AssemblyInfoInputs.cache
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.AssemblyInfo.cs
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.csproj.CoreCompileInputs.cache
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.dll
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\refint\FizzBuzz.Services.dll
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.pdb
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\FizzBuzz.Services.genruntimeconfig.cache
+D:\Users\manarayanasami\source\repos\FizzBuzz\FizzBuzzApp\FuzzBuzz.Services\obj\Debug\net8.0\ref\FizzBuzz.Services.dll
